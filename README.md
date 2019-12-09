@@ -1,5 +1,5 @@
 # Tugas-pratikum-5
-# Program Menghitung Nilai Mahasiswa
+# Program Menghitung Nilai Mahasiswa Menggunakan Dictionary.
 
 Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan list.
 
@@ -53,12 +53,12 @@ print("========================================================================"
 ```
 
 - Flowchart
-![FLOWCHART]()
+![FLOWCHART](https://github.com/alviandwipramono/Tugas-pratikum-5/blob/master/flowchart.png)
 
 - Screenshot Input
-![Input]()
+![Input](https://github.com/alviandwipramono/Tugas-pratikum-5/blob/master/input.png)
 
 - Screenshot Ouput
-![Output]()
+![Output](https://github.com/alviandwipramono/Tugas-pratikum-5/blob/master/output.png)
 
 
