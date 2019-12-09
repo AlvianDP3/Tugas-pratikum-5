@@ -53,7 +53,7 @@ print("========================================================================"
 ```
 
 - Flowchart
-![FLOWCHART](https://github.com/alviandwipramono/Tugas-pratikum-5/blob/master/70393031-7a343300-1a18-11ea-9ca0-7cfeac7da257.jpg)
+![FLOWCHART](https://github.com/alviandwipramono/Tugas-pratikum-5/blob/master/tugas5.jpg)
 
 - Screenshot Input
 ![Input](https://github.com/alviandwipramono/Tugas-pratikum-5/blob/master/input.png)
