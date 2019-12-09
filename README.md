@@ -1,5 +1,5 @@
 # Tugas-pratikum-5
-# Program Menghitung Nilai Mahasiswa
+# Program Menghitung Nilai Mahasiswa Menunggunakan Dictionary.
 
 Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan list.
 
